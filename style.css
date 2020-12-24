@@ -1,0 +1,32 @@
+#marquee {
+    margin-top: 10px;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+#contactunderscore1 h3 {
+    display: inline;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_head i {
+    float: right;
+}
+
+#cricket.img {
+    padding-bottom: 10px;
+}
+.img_modal{
+    display: inline-block;
+}
+.p_modal{
+    display: inline-block;
+}
